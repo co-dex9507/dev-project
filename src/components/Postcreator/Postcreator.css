@@ -1,0 +1,12 @@
+.postCreator{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-top: 1px solid lightgray;
+    width: 50%;
+}
